@@ -57,6 +57,6 @@
     "test": "grunt run_all_tests"
   },
   "engines": {
-    "node": ">= 4.0.1"
+    "node": ">= 0.12.7"
   }
 }
